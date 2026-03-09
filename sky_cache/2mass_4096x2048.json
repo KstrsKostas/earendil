@@ -1,0 +1,10 @@
+{
+  "survey_name": "2MASS Color (J/H/K infrared)",
+  "hips": "CDS/P/2MASS/color",
+  "projection": "CAR",
+  "coordsys": "icrs",
+  "width": 4096,
+  "height": 2048,
+  "cache_png": "sky_cache/2mass_4096x2048.png",
+  "service_url": "https://alasky.cds.unistra.fr/hips-image-services/hips2fits"
+}
