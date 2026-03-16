@@ -5,7 +5,7 @@
 Real-time visualization of gravitational lensing around a spinning (Kerr) black hole, using real infrared sky data from the 2MASS survey.
 
 ![Eärendil Screenshot](earendil_20260309_132221.png)
-
+![Eärendil Screenshot](earendil_20260309_131902.png)
 ## Features
 
 - **Real Sky Data**: 2MASS infrared all-sky survey (J/H/K bands)
